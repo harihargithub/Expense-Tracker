@@ -2,38 +2,85 @@
   "expenses": [
     {
       "expenseDescription": "Internet Expenses",
-      "payeeName": "Ramesh",
+      "payeeName": "VS",
       "price": 1100,
-      "date": "2023-02-26T00:00:00.000Z",
+      "date": "2021-05-26T00:00:00.000Z",
       "id": 1
     },
     {
       "expenseDescription": "Bike Maintainence Expenses",
-      "payeeName": "Rahul",
+      "payeeName": "RK",
       "price": 3500,
-      "date": "2023-02-26T00:00:00.000Z",
+      "date": "2020-04-16T00:00:00.000Z",
       "id": 2
     },
     {
       "expenseDescription": "Electricity Bill - Nov Month",
-      "payeeName": "Ramesh",
+      "payeeName": "VS",
       "price": 2200,
-      "date": "2023-02-26T00:00:00.000Z",
+      "date": "2022-08-06T00:00:00.000Z",
       "id": 3
     },
     {
       "expenseDescription": "Dinner Expenses - Friday Night",
-      "payeeName": "Rahul",
+      "payeeName": "RK",
       "price": 1750,
       "date": "2023-02-26T00:00:00.000Z",
       "id": 4
     },
     {
       "expenseDescription": "Saturday - Movie Night",
-      "payeeName": "Ramesh",
+      "payeeName": "VS",
       "price": 920,
       "date": "2023-02-26T00:00:00.000Z",
       "id": 5
+    },
+    {
+      "expenseDescription": "Torch",
+      "payeeName": "VS",
+      "price": "667",
+      "date": "2016-06-06T00:00:00.000Z",
+      "id": 6,
+      "name": "Expense-Entry-0"
+    },
+    {
+      "expenseDescription": "Xerox",
+      "payeeName": "HKS",
+      "price": "7",
+      "date": "2023-11-01T00:00:00.000Z",
+      "expenseDate": "2023-11-01",
+      "id": 7
+    },
+    {
+      "expenseDescription": "Curd",
+      "payeeName": "VS",
+      "price": 10,
+      "date": "2016-06-09T00:00:00.000Z",
+      "id": 9
+    },
+    {
+      "expenseDescription": "Courier",
+      "payeeName": "HKS",
+      "price": "2",
+      "date": "2023-11-01T00:00:00.000Z",
+      "expenseDate": "2023-11-01",
+      "id": 0.08533241058991825
+    },
+    {
+      "expenseDescription": "CAB",
+      "price": "33",
+      "date": "2023-11-27T00:00:00.000Z",
+      "expenseDate": "2023-11-27",
+      "id": 0.24487173459807532,
+      "payeeName": "HKS"
+    },
+    {
+      "expenseDescription": "Charger",
+      "price": "3",
+      "date": "2023-11-10T00:00:00.000Z",
+      "expenseDate": "2023-11-10",
+      "id": 0.0729902489352463,
+      "payeeName": "HKS"
     }
   ]
 }
